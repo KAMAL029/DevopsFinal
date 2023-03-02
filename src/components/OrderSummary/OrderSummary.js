@@ -74,7 +74,7 @@ function OrderSummary() {
           <p className="left">Food Total</p>
 
           <p className="right">
-            <strong>Rs{totalAmount}</strong>
+            <strong>${totalAmount}</strong>
           </p>
           <br />
           <br />
