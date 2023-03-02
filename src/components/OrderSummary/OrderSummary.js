@@ -47,7 +47,7 @@ function OrderSummary() {
               </p>
 
               <p className="right">
-                <strong>${price}</strong>
+                <strong>Rs{price}</strong>
               </p>
               <br />
               <br />
@@ -74,7 +74,7 @@ function OrderSummary() {
           <p className="left">Food Total</p>
 
           <p className="right">
-            <strong>${totalAmount}</strong>
+            <strong>Rs{totalAmount}</strong>
           </p>
           <br />
           <br />
@@ -93,7 +93,7 @@ function OrderSummary() {
             {address}, {city}, {state}, {zip_code}, {country}{" "}
           </p>
           <br />
-          <p>Payment: "Cashy On Dalivery"</p>
+          <p>Payment: "Cash On Delivery"</p>
           <br />
         </div>
 

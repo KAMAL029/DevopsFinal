@@ -7,7 +7,7 @@ function About() {
         <div className="about-nike">
           <h2 className="about-nike-text">OUR MISSION</h2>
           <p>
-            "BRING INSPIRATION AND INNOVATION TO EVERY ATHLETE* IN THE WORLD"
+            "BRING INSPIRATION AND INNOVATION TO EVERY ATHLETE IN THE WORLD"
           </p>
         </div>
       </div>
@@ -18,8 +18,8 @@ function About() {
           human potential. We do that by creating groundbreaking sport
           innovations, by making our products more sustainably, by building a
           creative and diversified global team and by making a positive impact in
-          communities where success live and work. Based in Beaverton, Oregon, NIKE,
-          Inc. incluascacvfvz des the Nike, and Jordan brands.
+          communities where success live and work. The Headquarter is Based on Beaverton,Oregon.
+          NIKE,Inc. 
         </p>
       </div>
     </div>
